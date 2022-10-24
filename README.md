@@ -1,6 +1,6 @@
 ## Fala ae ✌
-- ✔ Estudando Front-end
 - 🐍 Python
+- ☕ Java
 
 
 <div align="center">
