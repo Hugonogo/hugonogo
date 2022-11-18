@@ -1,6 +1,6 @@
-## Fala ae ✌
-- 🐍 Python
-- ☕ Java
+<h1>Fala ae </h1>
+<p>- 🐍 Python</p>
+<p>- ☕ Java</p>
 
 
 <div align="center">
