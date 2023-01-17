@@ -1,6 +1,6 @@
 <h1>Oi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-
+<p>Estudando Front-end</p>
 
 
 <div align="center">
