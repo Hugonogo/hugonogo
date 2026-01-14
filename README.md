@@ -4,15 +4,9 @@ Oi! sou Hugo,
 você tambem pode me chamar de Hugi, sou estudante de sistemas de informação e redes de computadores. Gosto de aprender coisas novas sobre tecnologia, estou sempre buscando melhorar minhas habilidades 😸. 
 
 ## Meus Contatos
-[![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-felipe-nogueira-teixeira-6461b11a2/)
+[![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hugo-nogueira-teixeira)
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/479790631443759107)
 
-
-## Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugonogo&show_icons=true&theme=tokyonight" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugonogo&layout=compact&show_icons=true&theme=tokyonight&hide=php,blade&include_all_commits=true&count_private=true" height="180em">
-</div>
 
 <div>
   <h2>SKILLS</h2>
@@ -23,8 +17,9 @@ você tambem pode me chamar de Hugi, sou estudante de sistemas de informação e
   <img align="center" alt="HG-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HG-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HG-Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="HG-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="HG-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="HG-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  
           
   
           
