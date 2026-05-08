@@ -13,6 +13,7 @@ você tambem pode me chamar de Hugi, sou Formado em sistemas de informação. Go
   <a href="mailto:elna.hugo.nogueira@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
   
 
 <div>
@@ -41,7 +42,7 @@ você tambem pode me chamar de Hugi, sou Formado em sistemas de informação. Go
 
 ## 💼 Experiência Profissional
 
-[<img align="left" height="92px" width="92px" alt="Norte Rios" src="./"/>](#)
+[<img align="left" height="92px" width="92px" alt="Norte Rios" src="./norterioslogo.jfif"/>](#)
 
 *Assistente de T.I* \
 **Norte Rios Gestão e Treinamentos LTDA** \
