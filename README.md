@@ -40,7 +40,7 @@ você tambem pode me chamar de Hugi, sou Formado em sistemas de informação. Go
 </p>
 
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 [<img align="left" height="92px" width="92px" alt="Norte Rios" src="./norterioslogo.jfif"/>](#)
 
