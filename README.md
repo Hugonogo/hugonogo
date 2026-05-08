@@ -1,12 +1,19 @@
+
 ## Sobre mim
 
 Oi! sou Hugo,
 você tambem pode me chamar de Hugi, sou Formado em sistemas de informação. Gosto de aprender coisas novas sobre tecnologia, estou sempre buscando melhorar minhas habilidades. Atualmente estou tentando entrar na área de Quality Assurance (QA), uma nova jornada na minha carreira na tecnologia. Este repositório será utilizado para catalogar meus estudos e praticas na àrea de QA. 
 
 ## Meus Contatos
-[![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-nogueira-teixeira)
-[![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/479790631443759107)
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/hugo-nogueira-teixeira/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:elna.hugo.nogueira@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
 
 <div>
   <h2>SKILLS</h2>
@@ -27,4 +34,18 @@ você tambem pode me chamar de Hugi, sou Formado em sistemas de informação. Go
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  
 </p>
+
+
+## 💼 Experiência Profissional
+
+[<img align="left" height="92px" width="92px" alt="Norte Rios" src="./"/>](#)
+
+*Assistente de T.I* \
+**Norte Rios Gestão e Treinamentos LTDA** \
+Administração e suporte a ambientes Linux, Gerenciamento de VPS (HostGator), Administração de recursos em Google Cloud Platform (GCP), Troubleshooting de infraestrutura, redes e sistemas, Execução de rotinas preventivas e documentação técnica, Apoio ao desenvolvimento e manutenção de sistemas web, garantindo integração entre aplicação e infraestrutura e testagem de software mantendo a qualidade e escalabilidade. \
+Out 2025 - Presente
+
+<br clear="left"/>
